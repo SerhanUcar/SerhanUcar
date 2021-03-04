@@ -1,6 +1,8 @@
 ###                            Hi there 👋 My name is Serhan Uçar. 
 
 ![SerhanUcar's github stats](https://github-readme-stats.vercel.app/api?username=SerhanUcar&show_icons=true&theme=tokyonight&hide=contribs,prs,issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhanUcar)](https://github.com/SerhanUcar/github-readme-stats)
+
 
 <!--
 **SerhanUcar/SerhanUcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
