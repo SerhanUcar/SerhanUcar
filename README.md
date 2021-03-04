@@ -1,6 +1,6 @@
 ### <h2 align="center">  Hi there 👋 My name is Serhan UÇAR   </h2>
 
-![SerhanUcar's github stats](https://github-readme-stats.vercel.app/api?username=SerhanUcar&show_icons=true&theme=tokyonight&hide=contribs,prs,issues&show_icons=true)
+![SerhanUcar's github stats](https://github-readme-stats.vercel.app/api?username=SerhanUcar&show_icons=true&theme=tokyonight&hide=contribs,prs,issues&)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhanUcar&theme=tokyonight)](https://github.com/SerhanUcar/github-readme-stats)
 
