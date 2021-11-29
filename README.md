@@ -25,7 +25,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/serhan.jpeg)          [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-quare&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/serhan-u%C3%A7ar-7b068a173/)          [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-quare&logo=gmail&logoColor=white&link=link)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqXbdZsLfFKgpdtnbXswBXdmQFgkQhkpRKVqRKRBGHtDPRJsKbgkZCxbkQpKPTKsctmXw)
 
 </h2> 
-
+ 
 
 
 
