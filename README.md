@@ -8,7 +8,7 @@
 ![Visit Counter](https://komarev.com/ghpvc/?username=SerhanUcar&color=brightgreen&style=flat&label=Profile+Views)
 
 </h2>
-
+   
 <h2 align="center">
   
   Coding Skills
